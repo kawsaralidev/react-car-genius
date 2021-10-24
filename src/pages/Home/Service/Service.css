@@ -1,0 +1,9 @@
+.service-container{
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin: 20px;
+}
+.service-container img{
+    width: 100%;
+     border-radius: 10px;
+}
